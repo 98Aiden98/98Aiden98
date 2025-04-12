@@ -1,6 +1,6 @@
 # Hello. I'm Den
 
-Welcome to my GitHub profile! I am a FullStack Developer. Here you'll find my projects, experiments, and work that reflect my technical skills and interests.
+I am a FullStack Developer. Here you'll find my projects, experiments, and work that reflect my technical skills and interests.
 
 ## About Me
 
